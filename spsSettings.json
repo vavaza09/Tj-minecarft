@@ -1,0 +1,14 @@
+{
+  "gameType": "SURVIVAL",
+  "difficulty": "HARD",
+  "difficultyLocked": false,
+  "cheats": true,
+  "invited": [
+    "ca892382-73b4-4977-85ca-99310fab9628",
+    "3a877667-2984-4694-94cf-58f3390ee812",
+    "431bfe28-b449-488d-975d-c6e55b791c93",
+    "84126e19-5ab0-476d-8992-d2db917230b1"
+  ],
+  "shareResourcePack": false,
+  "oppedPlayers": []
+}
